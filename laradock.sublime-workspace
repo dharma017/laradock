@@ -1,0 +1,244 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"ad",
+				"Project: Add Folder"
+			],
+			[
+				"save",
+				"Project: Save As"
+			],
+			[
+				"add",
+				"Project: Add Folder"
+			],
+			[
+				"json",
+				"Set Syntax: JSON"
+			],
+			[
+				"pack",
+				"Preferences: Package Control Settings – User"
+			],
+			[
+				"packag",
+				"View Package File"
+			],
+			[
+				"package",
+				"Preferences: Package Control Settings – User"
+			],
+			[
+				"pafckage",
+				"Preferences: Package Control Settings – Default"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 124.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/dharma017/Workspace/laradock",
+		"/Users/dharma017/Workspace/laradock/nginx",
+		"/Users/dharma017/Workspace/laradock/nginx/sites",
+		"/Users/dharma017/Workspace/laradock/nginx/ssl"
+	],
+	"file_history":
+	[
+		"/Users/dharma017/Workspace/laradock/laradock",
+		"/Users/dharma017/Workspace/laradock/nginx/sites/hyangla.conf",
+		"/Users/dharma017/Workspace/laradock/.env",
+		"/Users/dharma017/Workspace/hyangla/application/config/database.php",
+		"/Users/dharma017/Workspace/laradock/nginx/sites/app.conf.example",
+		"/Users/dharma017/Workspace/laradock/laravel-echo-server/hyangla.conf",
+		"/Users/dharma017/Workspace/laradock/nginx/sites/.gitignore",
+		"/Users/dharma017/Library/Application Support/Sublime Text 3/Packages/User/Package Control.sublime-settings",
+		"/Users/dharma017/.android/advancedFeatures.ini",
+		"/var/folders/d0/qfrn539d1r97yfk285lysjwh0000gn/T/fz3temp-2/environment.php",
+		"/var/folders/d0/qfrn539d1r97yfk285lysjwh0000gn/T/fz3temp-2/.htaccess",
+		"/var/folders/d0/qfrn539d1r97yfk285lysjwh0000gn/T/fz3temp-2/index.php",
+		"/Users/dharma017/Desktop/thesis.txt",
+		"/Users/dharma017/Desktop/TODO",
+		"/Users/dharma017/Dropbox/test.js",
+		"/Users/dharma017/Library/Application Support/Sublime Text 3/Packages/Package Control/Package Control.sublime-settings"
+	],
+	"find":
+	{
+		"height": 26.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"PHP_VERSION"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 26.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "laradock.sublime-project",
+	"replace":
+	{
+		"height": 48.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"database",
+				"application/config/database.php"
+			],
+			[
+				"hya",
+				"nginx/sites/hyangla.conf"
+			],
+			[
+				"nginsite",
+				"nginx/sites/app.conf.example"
+			],
+			[
+				"nginx",
+				"nginx/sites/.gitignore"
+			],
+			[
+				"prerecon",
+				"protected/controllers/PreregistrationController.php"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"~/Workspace/laradock/laradock.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
