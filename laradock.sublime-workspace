@@ -20,6 +20,10 @@
 		"selected_items":
 		[
 			[
+				"dup",
+				"File: Duplicate"
+			],
+			[
 				"ad",
 				"Project: Add Folder"
 			],
@@ -74,16 +78,36 @@
 	[
 		"/Users/dharma017/Workspace/laradock",
 		"/Users/dharma017/Workspace/laradock/nginx",
+		"/Users/dharma017/Workspace/laradock/nginx/logrotate",
 		"/Users/dharma017/Workspace/laradock/nginx/sites",
 		"/Users/dharma017/Workspace/laradock/nginx/ssl"
 	],
 	"file_history":
 	[
-		"/Users/dharma017/Workspace/laradock/laradock",
+		"/Users/dharma017/Workspace/laradock/nginx/sites/vmspr.conf",
+		"/Users/dharma017/Workspace/laradock/nginx/sites/vms.conf",
+		"/Users/dharma017/Workspace/laradock/DOCUMENTATION/content/contributing/index.md",
+		"/Users/dharma017/Workspace/laradock/mysql/my.cnf",
+		"/Users/dharma017/Workspace/laradock/mariadb/my.cnf",
+		"/etc/hosts",
+		"/Users/dharma017/Workspace/laradock/docker-compose.yml",
 		"/Users/dharma017/Workspace/laradock/nginx/sites/hyangla.conf",
+		"/Users/dharma017/Workspace/laradock/php-fpm/php7.2.ini",
+		"/Users/dharma017/Workspace/laradock/nginx/sites/idswp.conf",
 		"/Users/dharma017/Workspace/laradock/.env",
-		"/Users/dharma017/Workspace/hyangla/application/config/database.php",
+		"/Users/dharma017/Workspace/laradock/php-fpm/Dockerfile",
+		"/Users/dharma017/Workspace/laradock/logs/nginx/idswp_access.log",
+		"/Users/dharma017/Workspace/laradock/logs/nginx/idswp_error.log",
+		"/Users/dharma017/Workspace/laradock/nginx/sites/prabhu.conf",
+		"/Users/dharma017/Workspace/laradock/nginx/sites/laravel.conf.example",
 		"/Users/dharma017/Workspace/laradock/nginx/sites/app.conf.example",
+		"/Users/dharma017/Workspace/laradock/nginx/sites/confluence.conf.example",
+		"/Users/dharma017/Workspace/laradock/nginx/sites/default.conf",
+		"/Users/dharma017/Workspace/laradock/nginx/sites/laravel_varnish.conf.example",
+		"/usr/local/bin/laradock",
+		"/Users/dharma017/Workspace/laradock/mysql/Dockerfile",
+		"/Users/dharma017/Workspace/laradock/laradock",
+		"/Users/dharma017/Workspace/hyangla/application/config/database.php",
 		"/Users/dharma017/Workspace/laradock/laravel-echo-server/hyangla.conf",
 		"/Users/dharma017/Workspace/laradock/nginx/sites/.gitignore",
 		"/Users/dharma017/Library/Application Support/Sublime Text 3/Packages/User/Package Control.sublime-settings",
@@ -98,13 +122,14 @@
 	],
 	"find":
 	{
-		"height": 26.0
+		"height": 27.0
 	},
 	"find_in_files":
 	{
-		"height": 0.0,
+		"height": 101.0,
 		"where_history":
 		[
+			""
 		]
 	},
 	"find_state":
@@ -112,6 +137,20 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"DATABASE",
+			"prereg",
+			"ocalhostpr",
+			"localhostpr",
+			"preregistration/login",
+			"short_open_tag",
+			"short_open_tag = On",
+			"INSTALL_MYSQLI",
+			"Codeigniter",
+			"Codeign",
+			"Code",
+			"PHP_FPM_INSTALL_MYSQLI",
+			"mysql",
+			"hyangla",
 			"PHP_VERSION"
 		],
 		"highlight": true,
@@ -137,11 +176,11 @@
 	],
 	"incremental_find":
 	{
-		"height": 26.0
+		"height": 27.0
 	},
 	"input":
 	{
-		"height": 0.0
+		"height": 36.0
 	},
 	"layout":
 	{
@@ -174,7 +213,7 @@
 	"project": "laradock.sublime-project",
 	"replace":
 	{
-		"height": 48.0
+		"height": 50.0
 	},
 	"save_all_on_build": true,
 	"select_file":
@@ -183,6 +222,86 @@
 		"last_filter": "",
 		"selected_items":
 		[
+			[
+				"vms",
+				"nginx/sites/vms.conf"
+			],
+			[
+				"vmspr",
+				"nginx/sites/vmspr.conf"
+			],
+			[
+				"vm",
+				"nginx/sites/vms.conf"
+			],
+			[
+				"index",
+				"DOCUMENTATION/content/contributing/index.md"
+			],
+			[
+				"my.cnf",
+				"mysql/my.cnf"
+			],
+			[
+				"my",
+				"mariadb/my.cnf"
+			],
+			[
+				"nginv",
+				"nginx/sites/vmspr.conf"
+			],
+			[
+				"dockerocm",
+				"docker-compose.yml"
+			],
+			[
+				"hyan",
+				"nginx/sites/hyangla.conf"
+			],
+			[
+				"php.ini",
+				"php-fpm/php7.2.ini"
+			],
+			[
+				"idswp",
+				"nginx/sites/idswp.conf"
+			],
+			[
+				"pphdocfi",
+				"php-fpm/Dockerfile"
+			],
+			[
+				".en",
+				".env"
+			],
+			[
+				"idw",
+				"nginx/sites/idswp.conf"
+			],
+			[
+				"idsw",
+				"nginx/sites/idswp.conf"
+			],
+			[
+				".env",
+				".env"
+			],
+			[
+				"",
+				"nginx/sites/idswp.conf"
+			],
+			[
+				"idswperr",
+				"logs/nginx/idswp_error.log"
+			],
+			[
+				"ids",
+				"nginx/sites/idswp.conf"
+			],
+			[
+				"mysqldocker",
+				"mysql/Dockerfile"
+			],
 			[
 				"database",
 				"application/config/database.php"
@@ -214,7 +333,27 @@
 		[
 			[
 				"",
+				"~/Workspace/idsaviation/idsaviation.sublime-project"
+			],
+			[
+				"id",
+				"~/Workspace/idsaviation/idsaviation.sublime-project"
+			],
+			[
+				"ids",
+				"~/Workspace/idsaviation/idsaviation.sublime-project"
+			],
+			[
+				"ida",
+				"~/Workspace/idsaviation/idsaviation.sublime-project"
+			],
+			[
+				"alr",
 				"~/Workspace/laradock/laradock.sublime-project"
+			],
+			[
+				"wor",
+				"~/Workspace/idswp.au/idswp.sublime-project"
 			]
 		],
 		"width": 380.0
@@ -236,7 +375,7 @@
 	"show_open_files": false,
 	"show_tabs": true,
 	"side_bar_visible": true,
-	"side_bar_width": 150.0,
+	"side_bar_width": 183.0,
 	"status_bar_visible": true,
 	"template_settings":
 	{
